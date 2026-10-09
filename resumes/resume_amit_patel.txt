@@ -1,0 +1,21 @@
+Amit Patel
+Email: amit.patel@example.com | Phone: +91-9876500005
+Location: Ahmedabad, India
+
+SUMMARY
+DevOps Engineer with experience in CI/CD, Linux and cloud.
+
+SKILLS
+- Linux, Bash
+- Jenkins, GitHub Actions
+- Docker, Kubernetes
+- Basic Python scripting
+
+EXPERIENCE
+DevOps Engineer at InfraTech (2022 - Present)
+- Set up CI/CD pipelines with Jenkins.
+- Wrote small Python scripts for log checking.
+- Managed Docker containers.
+
+EDUCATION
+Diploma in Computer Engineering, 2020

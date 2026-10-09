@@ -1,0 +1,25 @@
+John Doe
+Email: john.doe@example.com | Phone: +91-9876500001
+Location: Bangalore, India
+
+SUMMARY
+Software Engineer with 3 years of experience in Python and web development.
+
+SKILLS
+- Python, Flask, Django
+- JavaScript, React
+- SQL, MongoDB
+- Git, Docker
+
+EXPERIENCE
+Software Engineer at TechSoft (2022 - Present)
+- Built REST APIs in Python Flask for customer dashboard.
+- Improved database queries, reduced load time by 30%.
+- Worked with React frontend team.
+
+Junior Developer at WebStart (2021 - 2022)
+- Fixed bugs in Python scripts.
+- Wrote unit tests.
+
+EDUCATION
+B.Tech Computer Science, VTU, 2021

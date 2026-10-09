@@ -1,0 +1,21 @@
+Karan Mehta
+Email: karan.mehta@example.com | Phone: +91-9876500007
+Location: Pune, India
+
+SUMMARY
+Java Developer with 4 years of experience in Spring Boot and microservices.
+
+SKILLS
+- Java, Spring Boot
+- MySQL, Kafka
+- Git, Maven
+
+EXPERIENCE
+Java Developer at EnterpriseSoft (2020 - Present)
+- Built microservices in Java Spring Boot.
+- Integrated Kafka for event processing.
+- Mentored 2 junior developers.
+
+EDUCATION
+B.E. Computer, Pune University, 2020
+Note: Knows only basic Python, mainly Java background.

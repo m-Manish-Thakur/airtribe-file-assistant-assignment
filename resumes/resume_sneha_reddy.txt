@@ -1,0 +1,20 @@
+Sneha Reddy
+Email: sneha.reddy@example.com | Phone: +91-9876500006
+Location: Chennai, India
+
+SUMMARY
+Machine Learning intern with Python, scikit-learn and TensorFlow basics.
+
+SKILLS
+- Python, scikit-learn, TensorFlow
+- Jupyter, Pandas
+- SQL basics
+
+EXPERIENCE
+ML Intern at AI Labs (2024 - Present)
+- Trained image classifier in Python TensorFlow with 85% accuracy.
+- Cleaned datasets with Pandas.
+- Presented results to team weekly.
+
+EDUCATION
+M.Tech AI, Anna University, 2024

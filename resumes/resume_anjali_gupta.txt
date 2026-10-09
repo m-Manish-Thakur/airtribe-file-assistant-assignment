@@ -1,0 +1,20 @@
+Anjali Gupta
+Email: anjali.gupta@example.com | Phone: +91-9876500004
+Location: Hyderabad, India
+
+SUMMARY
+Backend Developer with strong Python and Django experience. Also knows AWS.
+
+SKILLS
+- Python, Django, FastAPI
+- PostgreSQL, Redis
+- AWS, Docker
+
+EXPERIENCE
+Backend Engineer at CloudServe (2021 - Present)
+- Developed Python Django APIs used by 50k users.
+- Used Docker and AWS EC2 for deployment.
+- Added Redis caching, cut API time by 40%.
+
+EDUCATION
+B.Tech IT, JNTU, 2021

@@ -1,0 +1,24 @@
+Rahul Verma
+Email: rahul.verma@example.com | Phone: +91-9876500003
+Location: Delhi, India
+
+SUMMARY
+Frontend Developer skilled in React, JavaScript and CSS.
+
+SKILLS
+- JavaScript, React, HTML, CSS
+- Tailwind CSS
+- Git, Figma
+
+EXPERIENCE
+Frontend Developer at CreativeApps (2022 - Present)
+- Built responsive pages in React and Tailwind.
+- Improved page speed score from 70 to 92.
+- Worked closely with designers in Figma.
+
+Freelancer (2021 - 2022)
+- Made 10+ landing pages for small businesses.
+
+EDUCATION
+BCA, IGNOU, 2021
+Note: No Python experience, focused on frontend only.

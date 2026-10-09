@@ -1,0 +1,24 @@
+Priya Sharma
+Email: priya.sharma@example.com | Phone: +91-9876500002
+Location: Mumbai, India
+
+SUMMARY
+Data Analyst with 2 years of experience in SQL, Excel and Python for data analysis.
+
+SKILLS
+- Python (Pandas, NumPy)
+- SQL, Excel, Power BI
+- Data cleaning and reporting
+
+EXPERIENCE
+Data Analyst at DataCorp (2023 - Present)
+- Analyzed sales data using Python Pandas.
+- Created Power BI dashboards for management.
+- Automated weekly Excel reports, saved 5 hours per week.
+
+Intern at AnalyticsHub (2022 - 2023)
+- Cleaned raw CSV data.
+- Wrote SQL queries.
+
+EDUCATION
+B.Sc. Statistics, Mumbai University, 2022
